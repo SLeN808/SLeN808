@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SLeN808
 - 👀 I’m interested in competitve programming and logic building
-- 🌱 I’m currently learning django and cyber security
+- 🌱 I’m currently learning MERN Stack
 - 📫 How to reach me sidhardhlenka@gmail.com
 
 <!---
